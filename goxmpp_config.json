@@ -1,0 +1,7 @@
+{
+    "server_name":"",
+    "user_name":"",
+    "password":"",
+    "receiver":"",
+    "default_message":"hello world"
+}
